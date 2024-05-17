@@ -1,6 +1,6 @@
 # basic-subnetting
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/sj5fjvT.png"alt="osTicket logo"/>
 </p>
 
 <h1>Basic Subnetting</h1>
