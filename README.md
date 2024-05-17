@@ -1,4 +1,3 @@
-# basic-subnetting
 <p align="center">
 <img src="https://i.imgur.com/sj5fjvT.png"alt="osTicket logo"/>
 </p>
