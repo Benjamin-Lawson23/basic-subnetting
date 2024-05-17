@@ -17,7 +17,7 @@ This is demonstration of how to subnet a small network.<br />
 <h2>Network Prior to Subnetting</h2>
 
 <p>
-<img src="https://i.imgur.com/maKyy8r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DLzxjvK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This is the network before subnetting.
@@ -27,9 +27,8 @@ This is the network before subnetting.
 <h2>Network Post Subnetting</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/maKyy8r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-This is the network after subnetting.
+<p>This is the network after subnetting.
 </p>
 <br />
