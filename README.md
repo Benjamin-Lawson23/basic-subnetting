@@ -8,8 +8,8 @@ This is demonstration of how to subnet a small network.<br />
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
+- ### [YouTube: Basic Subnetting Demo](https://youtu.be/iC6TNmgU1Us)
+  
 <h2>Environments and Technologies Used</h2>
 
 - Cisco Packet Tracer
