@@ -20,7 +20,7 @@ This is demonstration of how to subnet a small network.<br />
 <img src="https://i.imgur.com/DLzxjvK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the video demonstration I subnet the network portrayed in the above image into two separate subnets. At this stage, the network is 192.168.1.0 /24, and the router is not attached to the network. 
+In the video demonstration, I subnet the network portrayed in the above image into two separate subnets. At this stage, the network is 192.168.1.0 /24, and the router is not attached to the network. 
 </p>
 <br />
 
