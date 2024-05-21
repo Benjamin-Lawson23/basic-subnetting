@@ -3,7 +3,7 @@
 </p>
 
 <h1>Basic Subnetting</h1>
-This is demonstration of how to subnet a small network.<br />
+This is a video demonstration of how to subnet a small network, including all configuration and testing.<br />
 
 
 <h2>Video Demonstration</h2>
